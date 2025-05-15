@@ -1,6 +1,6 @@
 # 🛍️ **E-commerce Sales Dashboard (Power BI)**
 
-[](https://github.com/user-attachments/assets/a0e73280-a0d1-4aa3-852b-a97881d5d573))
+![](https://github.com/user-attachments/assets/b68d9643-b68c-4987-bbb4-077cfccfd6e0)
 
 ## 📌 **Project Overview**
 This project presents a dynamic and interactive E-commerce Sales Dashboard built using **Power BI Desktop**. The dashboard provides insights into sales performance, customer behavior, and product trends based on historical sales data.
