@@ -1,35 +1,50 @@
-# 📊 Power BI Projects Portfolio
+# 🛍️ **E-commerce Sales Dashboard (Power BI)**
 
-Welcome to my Power BI portfolio! This repository contains professional dashboards and data visualizations created using **Microsoft Power BI Desktop**, highlighting key business insights through interactive reports.
+![Dashboard Screenshot](![Sale Dashboard](https://github.com/user-attachments/assets/a0e73280-a0d1-4aa3-852b-a97881d5d573)
+)
 
----
-
-## 🔍 Projects Included
-
-| Project                                                   | Description                                                                                              |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [`ecommerce-sales-dashboard`](./ecommerce-sales-dashboard) | A sales dashboard visualizing customer behavior, orders, and product insights for an e-commerce business |
-
-> Each project folder contains the `.pbix` file, datasets, visuals, and a detailed README.
+## 📌 **Project Overview**
+This project presents a dynamic and interactive E-commerce Sales Dashboard built using **Power BI Desktop**. The dashboard provides insights into sales performance, customer behavior, and product trends based on historical sales data.
 
 ---
 
-## 💡 What You’ll Find
+## 📊 **Dashboard Features**
 
-- Interactive dashboards built from real-world CSV datasets
-- Clean UI and user-friendly design
-- Applied DAX for custom calculations
-- Various visuals: cards, pie charts, bar/column charts, slicers
-- Screenshots and previews included
-
----
-
-## 🧰 Tools Used
-
-- **Microsoft Power BI Desktop**
-- **DAX (Data Analysis Expressions)**
-- **CSV Files / Flat Files**
+- ✅ **DAX Measures** for total sales, profit, quantity, etc.
+- 🧩 **Slicers** to filter by state and quantity.
+- 📈 **Bar & Column Charts** to compare top sub categories and profile by month.
+- 🥧 **Pie & Doughnut Charts** to show segment distributions for payment modes and categories.
+- 📇 **Cards** for KPIs (Amount,Total Profit,Total Quantity, etc..)
+- 🎨 Custom **background color** and polished layout.
 
 ---
 
-## 📁 Folder Structure
+## 🗃️ **Files Included**
+
+| File | Description |
+|------|-------------|
+| `ecommerce-sales-dashboard.pbix` | Power BI project file |
+| `Sale Dashboard.png` | Screenshot of the final dashboard |
+| `Orders.csv`, `Details.csv` | Sample CSV datasets |
+| `README.md` | Project overview and documentation |
+| `bachground colour implemented.jpg` | background colour used. |
+
+---
+
+## 🛠️ **Tools & Technologies**
+- Microsoft Power BI Desktop
+- DAX (Data Analysis Expressions)
+- CSV file data sources
+
+---
+
+## ▶️ **How to Use**
+
+1. Download the `.pbix` file and open with **Power BI Desktop**.
+2. Ensure the CSV files (`Orders.csv`, `Details.csv`) are in the same folder for correct data binding.
+3. Explore filters, slicers, and visuals to interact with the dashboard.
+
+---
+
+
+
