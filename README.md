@@ -50,11 +50,8 @@ This repository contains **professional dashboards and data visualizations** bui
 
 ---
 
-## 📬 **Connect With Me**
-
-If you have feedback, questions, or want to collaborate:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/mfouadmohamed325/)
+## 🤝 **Connect with Me**
+🔗 [LinkedIn – Maged Fouad](https://www.linkedin.com/in/mfouadmohamed325/)
 
 ---
 
