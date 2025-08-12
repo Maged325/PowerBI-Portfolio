@@ -12,7 +12,7 @@ This dashboard presents a professional overview of retail performance by visuali
 
 ## 🧾 **Dataset Summary**
 
-* **Source:** [Superstore Sales Dataset (Kaggle)]()
+* **Source:** Superstore Sales Dataset (Kaggle)
 * **Records:** 9,994
 * **Columns include:**
   * `Order Date`, `Ship Date`, `Region`, `Segment`
@@ -65,4 +65,5 @@ This dashboard presents a professional overview of retail performance by visuali
 | `README.md`                          | This project description             |
 
 ---
+
 
