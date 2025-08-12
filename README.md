@@ -9,7 +9,10 @@ This repository contains **professional dashboards and data visualizations** bui
 
 | 🗂 Project | 📋 Description |
 |-----------|----------------|
-| [`ecommerce-sales-dashboard`](https://github.com/Maged325/PowerBI-Portfolio/tree/main/ecommerce-sales-dashboard) | A sales dashboard visualizing customer behavior, orders, and product insights for an e-commerce business |
+| [`ecommerce-sales-dashboard`](https://github.com/Maged325/PowerBI-Portfolio/tree/main/ecommerce-sales-dashboard) | A sales dashboard visualizing customer behavior, orders, and product insights for an e-commerce business. |
+| [`hotel-bookings-dashboard`](https://github.com/Maged325/PowerBI-Portfolio/tree/main/hotel_bookings_dashboard) | A dashboard analyzing hotel booking data to uncover trends in reservations, cancellations, customer demographics, and seasonal demand. |
+| [`retail-insights-dashboard`](https://github.com/Maged325/PowerBI-Portfolio/tree/main/Retail-Insights-Dashboard) | A dashboard delivering insights into sales performance, product category trends, and customer purchasing patterns for a retail business. |
+
 
 > 📁 Each project folder includes the `.pbix` file, sample datasets (`.csv`), dashboard screenshots, and a detailed README.
 
