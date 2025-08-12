@@ -59,11 +59,12 @@ This dashboard presents a professional overview of retail performance by visuali
 
 | File                                   | Description                          |
 | -------------------------------------- | ------------------------------------ |
-| `PowerBI_RetailDashboard_Maged.pbix` | Power BI project file                |
+| `RetailDashboard.pbix`               | Power BI project file                |
 | `retail_insights_dashboard.png`      | Image preview of the dashboard       |
 | `Superstore.csv`                     | Retail dataset used in the dashboard |
 | `README.md`                          | This project description             |
 
 ---
+
 
 
