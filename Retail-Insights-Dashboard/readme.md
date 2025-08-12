@@ -1,16 +1,16 @@
-## 🛍️ Power BI Retail Insights Dashboard
+# 🛍️ **Power BI Retail Insights Dashboard**
 
 A clean and interactive Power BI dashboard built using the **Superstore Sales dataset** to extract key business insights across regions, products, and customer segments.
 
 ---
 
-### 📊 Project Description
+## 📊 **Project Description**
 
 This dashboard presents a professional overview of retail performance by visualizing key metrics like revenue, profit, discount behavior, and sales trends. The goal is to help business teams quickly identify top-selling products, high-performing regions, and customer behavior patterns.
 
 ---
 
-### 🧾 Dataset Summary
+## 🧾 **Dataset Summary**
 
 * **Source:** [Superstore Sales Dataset (Kaggle)]()
 * **Records:** 9,994
@@ -20,7 +20,7 @@ This dashboard presents a professional overview of retail performance by visuali
 
 ---
 
-### 📈 Dashboard Features
+### 📈 **Dashboard Features**
 
 #### ✅ KPIs (cards)
 
@@ -65,3 +65,4 @@ This dashboard presents a professional overview of retail performance by visuali
 | `README.md`                          | This project description             |
 
 ---
+
